@@ -1,1 +1,1 @@
-# Gneratemoviescripts
+# Generatemoviescripts
